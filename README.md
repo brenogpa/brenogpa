@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenogpa)](https://github.com/brenogpa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenogpa&layout=compact)](https://github.com/brenogpa/github-readme-stats)
 
+## Contact me
+* brenogpa@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/breno-abreu-4993ab1a2/)
 <!--
 **brenogpa/brenogpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
