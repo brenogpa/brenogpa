@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenogpa&layout=compact)](https://github.com/brenogpa/github-readme-stats)
-
-<div style="display: flex">
-  <img src = "https://komarev.com/ghpvc/?username=brenogpa&label=Profile%20views&color=gray" alt="brenogpa"  style="float:right, margin-right:10px"/>
-  <img src="https://img.shields.io/github/followers/brenogpa?label=Follow&color=gray" alt="brenogpa" style="float:left" />
-</div>
-</br>
-
 <div>
   <a href="https://github.com/brenogpa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenogpa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
